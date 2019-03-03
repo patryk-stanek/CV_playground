@@ -1,0 +1,16 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+.header {
+    background-image: url('/images/hero.png');
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+// a {
+//     color: var(--red);
+// }

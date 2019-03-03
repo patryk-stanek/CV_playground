@@ -4,6 +4,7 @@
   "description": "https://patryk-stanek.github.io/photoapp/",
   "main": "index.js",
   "dependencies": {
+    "bootstrap": "^4.3.1",
     "npm": "^6.5.0"
   },
   "devDependencies": {
